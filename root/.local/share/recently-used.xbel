@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///etc/vsftpd.conf" added="2025-05-16T02:22:19.757411Z" modified="2025-05-16T02:22:45.707352Z" visited="2025-05-16T02:22:19.757411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-16T02:22:45.707351Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/sites-available/000-default.conf" added="2025-05-23T01:22:02.316887Z" modified="2025-05-23T01:22:08.002738Z" visited="2025-05-23T01:22:02.316887Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-23T01:22:08.002737Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/conf-enabled/security.conf" added="2025-05-23T01:38:43.021799Z" modified="2025-05-23T01:47:44.367286Z" visited="2025-05-23T01:38:43.021799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-23T01:47:44.367285Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apache2/apache2.conf" added="2025-05-23T01:52:12.009832Z" modified="2025-05-23T01:56:12.664819Z" visited="2025-05-23T01:52:12.009832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-23T01:56:12.664818Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/php/7.4/apache2/php.ini" added="2025-05-23T01:54:35.839558Z" modified="2025-05-23T01:55:11.214762Z" visited="2025-05-23T01:54:35.839558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-23T01:55:11.214761Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,20 @@
+<metadata>
+ <document uri="file:///etc/apache2/sites-available/000-default.conf" atime="1747963329170">
+  <entry key="gedit-encoding" value="UTF-8"/>
+  <entry key="gedit-spell-language" value="en_US"/>
+  <entry key="gedit-position" value="603"/>
+ </document>
+ <document uri="file:///etc/apache2/apache2.conf" atime="1747965373493">
+  <entry key="gedit-encoding" value="UTF-8"/>
+  <entry key="gedit-spell-language" value="en_US"/>
+  <entry key="gedit-position" value="3373"/>
+ </document>
+ <document uri="file:///etc/apache2/conf-enabled/security.conf" atime="1747964909460">
+  <entry key="gedit-position" value="1583"/>
+ </document>
+ <document uri="file:///etc/php/7.4/apache2/php.ini" atime="1747965314119">
+  <entry key="gedit-encoding" value="UTF-8"/>
+  <entry key="gedit-spell-language" value="en_US"/>
+  <entry key="gedit-position" value="34317"/>
+ </document>
+</metadata>
